@@ -33,7 +33,7 @@ Vous allez créer 2 environnements : QAL et PROD complètement séparé dans des
 
 ### 4) Déployer en canary release
 
-### 5) Déploiement en GA
+### 5) Déploiement en GA (General Availability)
 
 ## Critères de performance
 
